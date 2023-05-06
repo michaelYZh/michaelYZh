@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A computer science student from the University of Waterloo</h3>
+<h3 align="center">A computer science student at the University of Waterloo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dv4aby&label=Profile%20views&color=0e75b6&style=flat" alt="dv4aby" /> </p>
 
