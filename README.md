@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love snowboarding, playing badminton, and play monster hunter!**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me on [LinkedIn](https://www.linkedin.com/in/yunji-zhang/)
 <p align="left">
 </p>
 
